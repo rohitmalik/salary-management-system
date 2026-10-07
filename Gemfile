@@ -47,4 +47,6 @@ group :development, :test do
 
   # RSpec testing framework for unit and integration tests
   gem "rspec-rails"
+
+  gem "factory_bot_rails"
 end
